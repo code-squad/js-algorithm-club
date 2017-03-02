@@ -2,7 +2,7 @@
 
 # 코드스쿼드 JS 알고리즘 클럽
 
-이 프로젝트는 스위프트 알고리즘 클럽(https://github.com/raywenderlich/swift-algorithm-club)을 모방해서 만들어 졌습니다.
+이 프로젝트는 스위프트 [알고리즘 클럽](https://github.com/raywenderlich/swift-algorithm-club)을 모방해서 만들어 졌습니다.
 
 기본적인 컨텐츠는 최대한 스위프트 알고리즘 클럽의 내용을 번역/활용하고 코드는 자바스크립트로 작성합니다.
 
